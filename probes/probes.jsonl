@@ -1,0 +1,10 @@
+{"input": "Allergies.new(0).list", "expect": [], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(1).list", "expect": ["eggs"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(2).list", "expect": ["peanuts"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(8).list", "expect": ["strawberries"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(3).list", "expect": ["eggs", "peanuts"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(5).list", "expect": ["eggs", "shellfish"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(248).list", "expect": ["strawberries", "tomatoes", "chocolate", "pollen", "cats"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(255).list", "expect": ["eggs", "peanuts", "shellfish", "strawberries", "tomatoes", "chocolate", "pollen", "cats"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(509).list", "expect": ["eggs", "shellfish", "strawberries", "tomatoes", "chocolate", "pollen", "cats"], "raised": false, "task": "allergies", "lang": "ruby"}
+{"input": "Allergies.new(257).list", "expect": ["eggs"], "raised": false, "task": "allergies", "lang": "ruby"}
